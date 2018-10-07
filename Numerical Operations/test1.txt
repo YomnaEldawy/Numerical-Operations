@@ -1,0 +1,2 @@
+1         | 7      | // a number from 1 to 7 to select the method (bisection ,..., general alg.)
+2         | x^3-12*x^2+43*x-36 | // The equation
